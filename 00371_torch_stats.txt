@@ -1,0 +1,1 @@
+{"nodes": 371, "edges": 3910, "average_node_degree": 10.539083557951482}
